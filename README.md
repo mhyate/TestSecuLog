@@ -41,6 +41,16 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 
 > **Note importante** : Les informations de connexion à la base de données et les clés d'API nécessaires vous seront envoyées par email séparément pour des raisons de sécurité.
 
+> **Très très important!!!** : Il arrive qu'après lancement du projet que vous tombiez sur une page blanche, c'est normal, c'est un bug, il faut juste balayer vers le haut.
+
+> **Comptes actifs** :
+> Admin :
+> - Mot de passe : password
+> - Email : admin@locamat.com
+> Utilisateur :
+> - Mot de passe : password
+> - Email : user@locamat.com
+
 ## Technologies Utilisées
 
 
