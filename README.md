@@ -13,8 +13,8 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 
 2. **Cloner le projet**
    ```bash
-   git clone [URL_DU_REPO]
-   cd locamat
+   git clone https://github.com/mhyate/TestSecuLog.git
+   cd TestSecuLog
    ```
 
 3. **Installation des dépendances**
@@ -24,7 +24,7 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
 
 4. **Configuration de l'environnement**
    - Créez un fichier `.env` à la racine du projet
-   - Contactez l'administrateur pour obtenir les variables d'environnement nécessaires :
+   - Récupérer les variables d'environnement envoyées par email :
      - VITE_SUPABASE_URL
      - VITE_SUPABASE_ANON_KEY
 
@@ -32,7 +32,7 @@ Pour installer et exécuter ce projet localement, suivez ces étapes :
    ```bash
    npm run dev
    ```
-   L'application sera accessible à l'adresse : http://localhost:5173
+   L'application sera accessible à l'adresse indiquée dans le terminal
 
 6. **Exécuter les tests (optionnel)**
    ```bash
@@ -188,7 +188,7 @@ npm run test:e2e:ci
 
 ## Équipe
 
-- **Chef de projet** : Ayimane BARA _(From Vini Jr from wish)_
+- **Chef de projet** : Ayimane BARA _(Vini Jr from wish)_
 - **Développeurs Front End et Back End** : Mhammed BAROUDI et Kenza AIT-OUAZZOU _(les DZ)_
 - **Testeur et valideur** : Mouhamadou YATE _(L'ancien)_
 - **Rédacteur technique** : Enes YILDIZ _(Le plus beau, Le plus fort)_
